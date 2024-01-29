@@ -1,0 +1,39 @@
+F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\LoggerService.dll
+F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\Contracts.dll
+F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\Contracts.pdb
+F:\asp.net web api from YouTube\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+F:\asp.net web api from YouTube\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.net web api from YouTube\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+F:\asp.net web api from YouTube\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+F:\asp.net web api from YouTube\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+F:\asp.net web api from YouTube\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+F:\asp.net web api from YouTube\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.dll
+F:\asp.net web api from YouTube\RealProject\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+F:\asp.net web api from YouTube\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+F:\asp.net web api from YouTube\RealProject\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
+F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\Entities.dll
+F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\Entities.pdb
+F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\Shared.dll
+F:\asp.net web api from YouTube\RealProject\LoggerService\bin\Debug\net6.0\Shared.pdb
+F:\asp.net web api from YouTube\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.sourcelink.json
+D:\RealProject\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+D:\RealProject\LoggerService\bin\Debug\net6.0\LoggerService.dll
+D:\RealProject\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+D:\RealProject\LoggerService\bin\Debug\net6.0\Contracts.dll
+D:\RealProject\LoggerService\bin\Debug\net6.0\Entities.dll
+D:\RealProject\LoggerService\bin\Debug\net6.0\Shared.dll
+D:\RealProject\LoggerService\bin\Debug\net6.0\Contracts.pdb
+D:\RealProject\LoggerService\bin\Debug\net6.0\Entities.pdb
+D:\RealProject\LoggerService\bin\Debug\net6.0\Shared.pdb
+D:\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+D:\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+D:\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+D:\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+D:\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.dll
+D:\RealProject\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+D:\RealProject\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+D:\RealProject\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
